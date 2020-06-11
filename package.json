@@ -21,7 +21,7 @@
     "style-loader": "0.21.0",
     "validator": "10.4.0",
     "webpack": "3.1.0",
-    "webpack-dev-server": "2.5.1"
+    "webpack-dev-server": "3.1.11"
   },
   "devDependencies": {
     "node-sass": "4.5.3"
